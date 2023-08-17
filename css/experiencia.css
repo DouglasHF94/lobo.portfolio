@@ -80,7 +80,7 @@
     padding: 5px 10px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
     .experiencia{
     grid-template-columns: 1fr;
     gap: 30px;
@@ -96,6 +96,8 @@
    }
 
    .experiencia .subtitulo {
+    text-align: center;
+    margin: auto;
     font-size: 80px;
    }
 

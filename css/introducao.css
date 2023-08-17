@@ -49,7 +49,7 @@
 
 }
 
-@media (max-width: 530px ) {
+@media (max-width: 500px ) {
     .introducao {
         grid-template-columns: 1fr;
         text-align: center;

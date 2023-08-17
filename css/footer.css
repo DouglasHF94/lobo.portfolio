@@ -35,7 +35,7 @@
     color: #8f8f8f;
   }
   
-  @media (max-width: 400px) {
+  @media (max-width: 500px) {
   .footer-container {
     grid-template-columns: 1fr;
     margin-top: 850px;
